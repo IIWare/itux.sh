@@ -29,6 +29,6 @@ Android sandcastle (c) Notes: it was already compiled.
 
 postmarketOS (ncnw)
 
-Ubuntu 20.04 (ncw
+Ubuntu 20.04 (ncw)
 
 If you would like other ubuntu versions, please let me know by making an issue about it.
