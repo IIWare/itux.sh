@@ -21,5 +21,14 @@ A: Don't get your hopes up too high, as GPU isn't supported, and Sound isn't sup
 
 ---
 
-Android sandcastle:
-Compiled: true (it was already compiled)
+if you see (ncnw) it means it's not compiled and planned to be worked on later.
+if you see (ncw) it means it's not compiled but it's being compiled.
+if you see (c) it means it's compiled.
+
+Android sandcastle (c) Notes: it was already compiled.
+
+postmarketOS (ncnw)
+
+Ubuntu 20.04 (ncw
+
+If you would like other ubuntu versions, please let me know by making an issue about it.
