@@ -1,4 +1,4 @@
-itux.sh is a script for macOS that can load 3 linux based Operating systems to your A10 Device (iPhone 7, iPhone 7 Plus, iPod touch 7th gen)! it can load Android Sandcastle (android-based), postmarketOS (arch-based), or Ubuntu 20.04 (debian-based)! it can download any of these Linux-based Operating Systems without having to manually download them and save them!
+itux.sh is a script for macOS that can load 3 linux based Operating systems to your A10 Device! (iPhone 7, iPhone 7 Plus, iPod touch 7th gen)! it can load Android Sandcastle (android-based), postmarketOS (arch-based), or Ubuntu 20.04 (debian-based)! it can download any of these Linux-based Operating Systems without having to manually download them and save them!
 
 ---
 <h2>Q and A</h1>
@@ -20,3 +20,6 @@ Q: Cool! I would like to install a game console emulator in Ubuntu in the iPhone
 A: Don't get your hopes up too high, as GPU isn't supported, and Sound isn't supported too, same with camera and cellular, everything else works.
 
 ---
+
+Android sandcastle:
+Compiled: true (it was already compiled)
