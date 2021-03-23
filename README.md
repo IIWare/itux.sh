@@ -7,7 +7,7 @@ itux.sh is a script for macOS that can load 3 linux based Operating systems to y
 
 Q: Why is nothing in this repo?
 
-A: Work is in Progress.
+A: <strike>Work is in Progress.</strike> This project has been cancelled, there is another project called s0cket, privately worked on.
 
 Q: is itux.sh available for linux?
 
