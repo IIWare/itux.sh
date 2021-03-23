@@ -1,4 +1,4 @@
-<h1>NOTE: This program is now cancelled, but I might make another program better than this soon, maybe less than a month, called s0cket, I made a repo for this at IIWare/s0cket</h1>
+<h1>NOTE: This program is now cancelled, but I might make another program better than this soon, maybe less than a month, called s0cket, it is privately being worked on.</h1>
 
 itux.sh is a script for macOS that can load 3 linux based Operating systems to your A10 Device! (iPhone 7, iPhone 7 Plus, iPod touch 7th gen)! it can load Android Sandcastle (android-based), postmarketOS (arch-based), or Ubuntu 20.04 (debian-based)! it can download any of these Linux-based Operating Systems without having to manually download them and save them!
 
