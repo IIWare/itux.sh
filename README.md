@@ -1,4 +1,4 @@
-<h1>NOTE: This program is now cancelled, but I might make another program better than this soon, maybe less than a month, called s0cket, it is privately being worked on.</h1>
+<h1>NOTE: This program is now cancelled, but I'm working on something similar to this.</h1>
 
 itux.sh is a script for macOS that can load 3 linux based Operating systems to your A10 Device! (iPhone 7, iPhone 7 Plus, iPod touch 7th gen)! it can load Android Sandcastle (android-based), postmarketOS (arch-based), or Ubuntu 20.04 (debian-based)! it can download any of these Linux-based Operating Systems without having to manually download them and save them!
 
@@ -7,7 +7,7 @@ itux.sh is a script for macOS that can load 3 linux based Operating systems to y
 
 Q: Why is nothing in this repo?
 
-A: <strike>Work is in Progress.</strike> This project has been cancelled, there is another project called s0cket, privately worked on.
+A: <strike>Work is in Progress.</strike> This project has been cancelled, I'm wotking on something similar privately.
 
 Q: is itux.sh available for linux?
 
